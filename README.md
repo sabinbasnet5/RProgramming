@@ -1,1 +1,2 @@
 # RProgramming
+This repository contains projects and scripts focused on various aspects of R Programming. It includes practical implementations for statistical analysis, data visualization, data cleaning, and interactive plots using popular R libraries such as ggplot2, dplyr, and shiny. The projects aim to demonstrate data manipulation, efficient data handling, and insightful visualizations, offering solutions to real-world problems in data science.
